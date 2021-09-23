@@ -114,5 +114,6 @@ dmypy.json
 .pyre/
 
 # Pycharm
+*.idea
 *.xml
 *.iml
