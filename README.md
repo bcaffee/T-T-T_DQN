@@ -1,2 +1,1 @@
-# T-T-T_DQN
- 
+Deep Quality Neural Network for a Tic-Tac-Toe agent. 
